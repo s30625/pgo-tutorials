@@ -1,2 +1,3 @@
-# pgo-tutorials
-Didactics purposes project
+<Mateusz> <Lipski>
+<14>
+<s30625>
